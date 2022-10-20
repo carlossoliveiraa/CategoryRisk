@@ -1,0 +1,15 @@
+C:\Projetos\Entrevistas\CreditSuisse.CategoryRisk\src\CreditSuisse.CategoryRisk.Console\bin\Debug\net6.0\CreditSuisse.CategoryRisk.Console.exe
+C:\Projetos\Entrevistas\CreditSuisse.CategoryRisk\src\CreditSuisse.CategoryRisk.Console\bin\Debug\net6.0\CreditSuisse.CategoryRisk.Console.deps.json
+C:\Projetos\Entrevistas\CreditSuisse.CategoryRisk\src\CreditSuisse.CategoryRisk.Console\bin\Debug\net6.0\CreditSuisse.CategoryRisk.Console.runtimeconfig.json
+C:\Projetos\Entrevistas\CreditSuisse.CategoryRisk\src\CreditSuisse.CategoryRisk.Console\bin\Debug\net6.0\CreditSuisse.CategoryRisk.Console.dll
+C:\Projetos\Entrevistas\CreditSuisse.CategoryRisk\src\CreditSuisse.CategoryRisk.Console\bin\Debug\net6.0\CreditSuisse.CategoryRisk.Console.pdb
+C:\Projetos\Entrevistas\CreditSuisse.CategoryRisk\src\CreditSuisse.CategoryRisk.Console\obj\Debug\net6.0\CreditSuisse.CategoryRisk.Console.csproj.AssemblyReference.cache
+C:\Projetos\Entrevistas\CreditSuisse.CategoryRisk\src\CreditSuisse.CategoryRisk.Console\obj\Debug\net6.0\CreditSuisse.CategoryRisk.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Entrevistas\CreditSuisse.CategoryRisk\src\CreditSuisse.CategoryRisk.Console\obj\Debug\net6.0\CreditSuisse.CategoryRisk.Console.AssemblyInfoInputs.cache
+C:\Projetos\Entrevistas\CreditSuisse.CategoryRisk\src\CreditSuisse.CategoryRisk.Console\obj\Debug\net6.0\CreditSuisse.CategoryRisk.Console.AssemblyInfo.cs
+C:\Projetos\Entrevistas\CreditSuisse.CategoryRisk\src\CreditSuisse.CategoryRisk.Console\obj\Debug\net6.0\CreditSuisse.CategoryRisk.Console.csproj.CoreCompileInputs.cache
+C:\Projetos\Entrevistas\CreditSuisse.CategoryRisk\src\CreditSuisse.CategoryRisk.Console\obj\Debug\net6.0\CreditSuisse.CategoryRisk.Console.dll
+C:\Projetos\Entrevistas\CreditSuisse.CategoryRisk\src\CreditSuisse.CategoryRisk.Console\obj\Debug\net6.0\refint\CreditSuisse.CategoryRisk.Console.dll
+C:\Projetos\Entrevistas\CreditSuisse.CategoryRisk\src\CreditSuisse.CategoryRisk.Console\obj\Debug\net6.0\CreditSuisse.CategoryRisk.Console.pdb
+C:\Projetos\Entrevistas\CreditSuisse.CategoryRisk\src\CreditSuisse.CategoryRisk.Console\obj\Debug\net6.0\CreditSuisse.CategoryRisk.Console.genruntimeconfig.cache
+C:\Projetos\Entrevistas\CreditSuisse.CategoryRisk\src\CreditSuisse.CategoryRisk.Console\obj\Debug\net6.0\ref\CreditSuisse.CategoryRisk.Console.dll
